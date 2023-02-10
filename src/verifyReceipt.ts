@@ -1,5 +1,3 @@
-import fetch, { Response } from 'node-fetch'
-
 import { VerifyReceiptRequestBody } from './VerifyReceiptRequestBody.js'
 import { VerifyReceiptErrorStatus, VerifyReceiptResponseBody } from './VerifyReceiptResponseBody.js'
 
